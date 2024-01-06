@@ -87,3 +87,4 @@ The following situations aren't handled by `cached-nix-shell` and may lead to st
   * [nix-develop](https://gitlab.com/mightybyte/nix-develop), universal build tool featuring cached `nd shell` command
 
 * [https://github.com/rycee/home-manager/issues/447](https://github.com/rycee/home-manager/issues/447)
+
